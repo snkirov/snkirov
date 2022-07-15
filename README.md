@@ -1,10 +1,4 @@
-## Hey, I'm Svilen!
-
-- 👀 I’m interested in iOS Development & Design || Prototyping & Hackatons
-- 🌱 I’m currently learning CI-CD with Fastlane-Bamboo-Testflight as well as taking a course in Security
-- 💞️ I’m looking to collaborate on anything I find interesting!
-- 📫 How to reach me: 
-https://www.linkedin.com/in/svilen-kirov/
+## Hey, I'm [Svilen](https://www.linkedin.com/in/svilen-kirov/)!
 
 ![Image](IMG_1180.jpeg)
 
